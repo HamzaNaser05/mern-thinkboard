@@ -79,7 +79,3 @@ The frontend will run at `http://localhost:5173` and the backend at `http://loca
 npm run build
 npm start
 ```
-
-## License
-
-This project is open source and available under the ISC License.
